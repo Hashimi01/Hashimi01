@@ -9,7 +9,7 @@
 <br/><br/>
 
 <a href="mailto:hashimielhashimi@gmail.com"><img src="https://img.shields.io/badge/-%20hashimielhashimi%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
-<a href="https://www.elhachmy.com"><img src="https://img.shields.io/badge/-hashimi.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>&nbsp;
+<a href="https://www.elhachmy.com"><img src="https://img.shields.io/badge/-elhachmy.com-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>&nbsp;
 <a href="https://linkedin.com/in/hashimielhashimi"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
 <img src="https://img.shields.io/badge/-Open%20to%20Remote%20Work-238636?style=for-the-badge" />
 
